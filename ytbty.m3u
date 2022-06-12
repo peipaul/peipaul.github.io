@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,半岛新闻
+http://192.168.50.168:9000/jmsytb.m3u8?c=1
+#EXTINF:-1,ENGLISH SPEECH
+http://192.168.50.168:9000/jmsytb.m3u8?c=2
+#EXTINF:-1,EARTH TV
+http://192.168.50.168:9000/jmsytb.m3u8?c=3
