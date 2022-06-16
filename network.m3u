@@ -129,6 +129,14 @@ http://39.134.32.102:6610/270000001111/1110000002/index.m3u8?IASHttpSessionId=OT
 http://39.134.32.102:6610/270000001111/1110000123/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="玉门" tvg-logo="" group-title="甘肃当地",玉门
 http://39.134.32.102:6610/270000001111/1110000125/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="嘉峪关综合" tvg-logo="" group-title="甘肃当地",嘉峪关综合
+http://39.134.32.103:6610/270000001111/1110000200/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="嘉峪关新闻" tvg-logo="" group-title="甘肃当地",嘉峪关新闻
+http://39.134.32.101:6610/270000001111/1110000200/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="" tvg-name="金塔综合" tvg-logo="" group-title="甘肃当地",金塔综合
+http://39.134.32.102:6610/270000001111/1110000124/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="敦煌综合" tvg-logo="" group-title="甘肃当地",敦煌综合
+http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘肃当地",天水新闻综合
 http://stream.tstv.cn/tstv73268A/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="甘肃当地",天水公共频道
