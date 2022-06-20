@@ -7,3 +7,7 @@ http://192.168.50.168:9000/jmsytb.m3u8?c=2
 http://192.168.50.168:9000/jmsytb.m3u8?c=3
 #EXTINF:-1,寰宇新闻
 http://192.168.50.168:9000/jmsytb.m3u8?c=4
+#EXTINF:-1,ABCNEWS
+http://192.168.50.168:9000/jmsytb.m3u8?c=5
+#EXTINF:-1,NBCNEWS
+http://192.168.50.168:9000/jmsytb.m3u8?c=6
