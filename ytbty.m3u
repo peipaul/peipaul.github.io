@@ -1,13 +1,31 @@
 #EXTM3U
-#EXTINF:-1,半岛新闻
+#EXTINF:-1,English Speech
 http://192.168.50.168:9000/jmsytb.m3u8?c=1
-#EXTINF:-1,ENGLISH SPEECH
+#EXTINF:-1,Earth Tv
 http://192.168.50.168:9000/jmsytb.m3u8?c=2
-#EXTINF:-1,EARTH TV
+#EXTINF:-1,I Love You Venice
 http://192.168.50.168:9000/jmsytb.m3u8?c=3
-#EXTINF:-1,寰宇新闻
+#EXTINF:-1,Pipeline Cam
 http://192.168.50.168:9000/jmsytb.m3u8?c=4
-#EXTINF:-1,ABCNEWS
+#EXTINF:-1,Brook Falls
 http://192.168.50.168:9000/jmsytb.m3u8?c=5
-#EXTINF:-1,NBCNEWS
+#EXTINF:-1,Animal & Bird Feeder Cam
 http://192.168.50.168:9000/jmsytb.m3u8?c=6
+#EXTINF:-1,ABC News
+http://192.168.50.168:9000/jmsytb.m3u8?c=7
+#EXTINF:-1,Al Jazeera English
+http://192.168.50.168:9000/jmsytb.m3u8?c=8
+#EXTINF:-1,France 24 English
+http://192.168.50.168:9000/jmsytb.m3u8?c=9
+#EXTINF:-1,DW News
+http://192.168.50.168:9000/jmsytb.m3u8?c=10
+#EXTINF:-1,Euronews English
+http://192.168.50.168:9000/jmsytb.m3u8?c=11
+#EXTINF:-1,CNA News
+http://192.168.50.168:9000/jmsytb.m3u8?c=12
+#EXTINF:-1,Bloomberg Global Financial News	
+http://192.168.50.168:9000/jmsytb.m3u8?c=13
+#EXTINF:-1,寰宇新聞
+http://192.168.50.168:9000/jmsytb.m3u8?c=14
+#EXTINF:-1,凤凰资讯
+http://192.168.50.168:9000/jmsytb.m3u8?c=15
