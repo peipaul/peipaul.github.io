@@ -37,7 +37,7 @@ http://nas.tuyuannet.cn:8800/rtp/239.37.0.080:5540
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.081:5540
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视付费",CCTV怀旧剧场
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.082:5540
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV文化精品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视付费",CCTV文化精品
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.083:5540
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视付费",CCTV兵器科技
 http://nas.tuyuannet.cn:8800/rtp/239.37.0.084:5540
