@@ -111,6 +111,10 @@ https://ytb.52sf.ga/live.m3u8?c=15
 http://39.134.32.102:6610/270000001111/1110000002/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,group-title="地方",酒泉综合
 http://stream.gsjqtv.com/pd1/sd/live.m3u8
+#EXTINF:-1,group-title="地方",玉门综合
+http://39.134.32.102:6610/270000001111/1110000125/index.m3u8?IASHttpSessionId=OTT?zgand
+#EXTINF:-1,group-title="地方",敦煌综合
+http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IASHttpSessionId=OTT?zgand
 #EXTINF:-1,group-title="地方",天水公共
 http://39.134.32.102:6610/270000001111/1110000186/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,group-title="地方",天水综合
