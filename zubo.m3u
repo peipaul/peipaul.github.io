@@ -116,9 +116,9 @@ http://39.134.32.102:6610/270000001111/1110000125/index.m3u8?IASHttpSessionId=OT
 #EXTINF:-1,group-title="地方",敦煌综合
 http://39.134.32.102:6610/270000001111/1110000028/index.m3u8?IASHttpSessionId=OTT?zgand
 #EXTINF:-1,group-title="地方",天水公共
-http://39.134.32.102:6610/270000001111/1110000186/index.m3u8?IASHttpSessionId=OTT
+http://stream.tstv.cn/tstc938Yn3ggpd/playlist.m3u8?_upt=14dc682f1620829149
 #EXTINF:-1,group-title="地方",天水综合
-http://39.134.32.102:6610/270000001111/1110000185/index.m3u8?IASHttpSessionId=OTT
+http://stream.tstv.cn/tstv73268A/playlist.m3u8
 #EXTINF:-1,group-title="地方",金塔
 http://192.168.50.253:6868/udp/239.255.30.224:8231
 #EXTINF:-1,group-title="地方",酒钢电视
