@@ -1,47 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[IPTV]央视",CCTV1
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/1
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[IPTV]央视",CCTV2
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/2
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="[IPTV]央视",CCTV3
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/3
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="[IPTV]央视",CCTV4
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/4
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="[IPTV]央视",CCTV5
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/5
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="[IPTV]央视",CCTV5+
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/6
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="[IPTV]央视",CCTV6
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/7
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="[IPTV]央视",CCTV7
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="[IPTV]央视",CCTV8
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/9
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="[IPTV]央视",CCTV9
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/10
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="[IPTV]央视",CCTV10
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/11
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="[IPTV]央视",CCTV11
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/12
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="[IPTV]央视",CCTV12
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/13
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="[IPTV]央视",CCTV13
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/14
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[IPTV]央视",CCTV14
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/15
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="[IPTV]央视",CCTV15
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/16
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="[IPTV]央视",CCTV17
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/17
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="[IPTV]央视",CGTN
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/18
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="[IPTV]央视",CGTN
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/19
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西班牙语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="[IPTV]央视",CGTN西班牙语
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/20
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿拉伯语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="[IPTV]央视",CGTN阿拉伯语
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/21
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="[IPTV]央视",CGTN法语
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/22
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="[IPTV]央视",CGTN俄语
-http://www.arp220.us:80/4DIZRt1oRXUcr8XtFzohCZ5gra5MTWYd/24jcuGQ145OH59hfHA4efCOX79fVJkYE/23
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[IPTV]央视",CCTV1
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="[IPTV]央视",CCTV2
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/2
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="[IPTV]央视",CCTV3
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/3
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="[IPTV]央视",CCTV4
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/4
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="[IPTV]央视",CCTV5
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/5
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="[IPTV]央视",CCTV5+
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="[IPTV]央视",CCTV6
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="[IPTV]央视",CCTV7
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="[IPTV]央视",CCTV8
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="[IPTV]央视",CCTV9
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="[IPTV]央视",CCTV10
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="[IPTV]央视",CCTV11
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="[IPTV]央视",CCTV12
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="[IPTV]央视",CCTV13
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[IPTV]央视",CCTV14
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="[IPTV]央视",CCTV15
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="[IPTV]央视",CCTV16
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="[IPTV]央视",CCTV17
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/18
+#EXTINF:-1 tvg-id="NowSports4K.hk" tvg-name="Now Sports 4K" tvg-logo="" group-title="[IPTV]香港",Now Sports 4K
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/19
+#EXTINF:-1 tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1" tvg-logo="" group-title="[IPTV]新马",Hub Premier 1
+http://www.arp220.us:80/Jtdr82dGnCE4/2d2J8SGh3yDf/20
