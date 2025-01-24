@@ -105,29 +105,31 @@ https://iptv.lebaobei.top:8443/udp/239.255.30.123:8231
 https://iptv.lebaobei.top:8443/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳",凤凰资讯
 https://iptv.lebaobei.top:8443/udp/239.255.30.70:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",group-title="地方",金塔
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",金塔
 https://iptv.lebaobei.top:8443/udp/239.255.30.224:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",group-title="地方",酒钢电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",酒钢电视
 https://iptv.lebaobei.top:8443/udp/239.255.30.94:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",group-title="地方",嘉峪关公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",嘉峪关公共
 https://iptv.lebaobei.top:8443/udp/239.255.29.35:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",group-title="地方",嘉峪关综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",嘉峪关综合
 https://iptv.lebaobei.top:8443/udp/239.255.29.36:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",戏曲精选
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州新闻
+https://iptv.lebaobei.top:8443/udp/239.255.30.107:8231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",戏曲精选
 https://iptv.lebaobei.top:8443/udp/239.255.30.118:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",都市剧场
 https://iptv.lebaobei.top:8443/udp/239.255.29.41:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",红色谍战剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",红色谍战剧场
 https://iptv.lebaobei.top:8443/udp/239.255.30.166:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",上视纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",上视纪实
 https://iptv.lebaobei.top:8443/udp/239.255.30.176:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",华语电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",华语电影
 https://iptv.lebaobei.top:8443/udp/239.255.30.193:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",星光影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",星光影院
 https://iptv.lebaobei.top:8443/udp/239.255.30.194:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",全球大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",全球大片
 https://iptv.lebaobei.top:8443/udp/239.255.30.196:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",看天下精选
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",看天下精选
 https://iptv.lebaobei.top:8443/udp/239.255.30.217:8231
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="精选",group-title="精选",SITV欢笑剧场
 https://iptv.lebaobei.top:8443/udp/239.255.29.7:8231
