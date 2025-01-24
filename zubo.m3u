@@ -105,8 +105,6 @@ http://192.168.50.253:6869/udp/239.255.30.123:8231
 http://192.168.50.253:6869/udp/239.255.30.50:8231
 #EXTINF:-1,tvg-id=“142”,tvg-logo=“http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png” group-title=“港澳”,凤凰资讯
 http://192.168.50.253:6869/udp/239.255.30.70:8231
-#EXTINF:-1,tvg-id=“6171”,tvg-logo=“http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png” group-title=“港澳”,寰宇新闻
-https://ytb.52sf.ga/live.m3u8?c=15
 #EXTINF:-1,group-title=“地方”,酒泉公共
 http://39.134.32.102:6610/270000001111/1110000002/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,group-title=“地方”,酒泉综合
