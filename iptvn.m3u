@@ -139,17 +139,22 @@ https://iptv.lebaobei.top:8443/udp/239.255.29.7:8231
 https://iptv.lebaobei.top:8443/udp/239.255.29.17:8231
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="精选",group-title="精选",生活时尚
 https://iptv.lebaobei.top:8443/udp/239.255.29.18:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",SITV都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",SITV都市剧场
 https://iptv.lebaobei.top:8443/udp/239.255.29.22:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",SITV金色学堂
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",SITV金色学堂
 https://iptv.lebaobei.top:8443/udp/239.255.29.23:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",SITV法治天地
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",SITV法治天地
 https://iptv.lebaobei.top:8443/udp/239.255.29.24:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",足球频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",足球频道
 https://iptv.lebaobei.top:8443/udp/239.255.29.25:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="精选",
 https://iptv.lebaobei.top:8443/udp/239.255.30.149:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",group-title="精选",羽毛球精品赛事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",羽毛球精品赛事
 https://iptv.lebaobei.top:8443/udp/239.255.29.31:8231
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="精选",
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="精选",IPTV5+
 https://iptv.lebaobei.top:8443/udp/239.255.30.115:8231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="动画",哈哈炫动
+https://iptv.lebaobei.top:8443/udp/239.255.29.37:8231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="动画",卡酷少儿
+https://iptv.lebaobei.top:8443/udp/239.255.29.38:8231
+
