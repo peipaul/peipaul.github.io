@@ -115,6 +115,8 @@ https://iptv.lebaobei.top:8443/udp/239.255.29.35:8231
 https://iptv.lebaobei.top:8443/udp/239.255.29.36:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州新闻
 https://iptv.lebaobei.top:8443/udp/239.255.30.107:8231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",兰州文旅
+https://iptv.lebaobei.top:8443/udp/239.255.30.108:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",戏曲精选
 https://iptv.lebaobei.top:8443/udp/239.255.30.118:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="精选",都市剧场
