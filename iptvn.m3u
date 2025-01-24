@@ -87,11 +87,11 @@ https://iptv.lebaobei.top:8443/udp/239.255.29.3:8231
 https://iptv.lebaobei.top:8443/udp/239.255.29.4:8231
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 https://iptv.lebaobei.top:8443/udp/239.255.29.5:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/gswhys.png" group-title="地方",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/gswhys.png" group-title="地方",甘肃文化影视
 https://iptv.lebaobei.top:8443/udp/239.255.30.250:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/gsggyj.png" group-title="地方",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/gsggyj.png" group-title="地方",甘肃公共应急
 https://iptv.lebaobei.top:8443/udp/239.255.30.251:8231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/gsds.png" group-title="地方",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/gsds.png" group-title="地方",甘肃科教
 https://iptv.lebaobei.top:8443/udp/239.255.30.252:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",group-title="地方",甘肃经济
 https://iptv.lebaobei.top:8443/udp/239.255.30.253:8231
