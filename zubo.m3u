@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvg-id=“1”,tvg-logo=“http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png”,group-title=“央视”,CCTV1
-http://192.168.50.253:6863/udp/239.255.30.101:8231
+http://192.168.50.253:6863/udp/239.255.30.201:8231
 #EXTINF:-1,tvg-id=“2”,tvg-logo=“http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png”,group-title=“央视”,CCTV2
 http://192.168.50.253:6863/udp/239.255.30.179:8231
 #EXTINF:-1,tvg-id=“3”,tvg-logo=“http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png”,group-title=“央视”,CCTV3
