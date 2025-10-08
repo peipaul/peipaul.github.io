@@ -105,7 +105,7 @@ https://iptv.lebaobei.top:8443/udp/239.255.29.78:8231
 https://iptv.lebaobei.top:8443/udp/239.255.29.80:8231
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视4K
 https://iptv.lebaobei.top:8443/udp/239.255.29.81:8231
-#EXTINF:-1 tvg-id="" tvg-name="华数影视" tvg-logo="" group-title="",华数影视4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",华数影视4K
 https://iptv.lebaobei.top:8443/udp/239.255.30.76:8231
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/gswhys.png" group-title="地方",甘肃文化影视
 https://iptv.lebaobei.top:8443/udp/239.255.30.250:8231
